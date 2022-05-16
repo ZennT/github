@@ -1,2 +1,4 @@
-package com.data;public class newClass {
+package com.data;
+
+public class newClass {
 }
